@@ -109,9 +109,9 @@
       
       <tag>Study</tag>
       
-      <tag>项目开发</tag>
-      
       <tag>C语言</tag>
+      
+      <tag>项目开发</tag>
       
     </tags>
     
@@ -335,17 +335,6 @@
   
   
   <entry>
-    <title>about</title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[<p><center>Destiny是一名喜欢二次元、数码、各类游戏和VOCALOID的脆皮大学生，目前就读于<a href="https://www.lnu.edu.cn/xxgk/xxjj.htm">辽宁大学</a>计算机科学与技术专业。</center><center><b>正在努力学习和苦练技术<del>（摆烂）</del>。</b></center></p></p><center>本人会在此网站上面记录自己的技术文档和学习生活日常，也可能会搬运一些本人发在酷安或其他平台的文章。</center></p><p><center>酷安：四氯合铜离子</center></p><p><center><a href="https://destinyqwq.top/comment-policy/">查看我们对您在本站发表评论做出的建议及要求</a></center></p><p><center>由于本站点使用Github托管，部分页面加载速度可能较为缓慢。</center><center>本站基于  Hexo  搭建</center><center>主题：Fluid</center></p>]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>Destinyの网址导航</title>
     <link href="/"/>
     <url>/</url>
@@ -362,6 +351,17 @@
     <url>/</url>
     
     <content type="html"><![CDATA[<p><center> <big><b>您的评论务必遵守如下及中国或您所在国家的一切相关法律法规：</b></big></center><center><big><b>《中华人民共和国网络安全法》</b></big></center><center><big><b>《网络信息内容生态治理规定》</b></big></center><center><big><b>《互联网跟帖评论服务管理规定》</b></big></center></p><p><center>善语结善缘 恶语伤人心</center><center>本站鼓励用户表达个人观点的同时尊重他人观点，不引战、人身攻击、不诋毁、辱骂他人。</center><center>本站鼓励大家基于真实的信息表达观点，杜绝抄袭捏造，不造谣传谣，不有意误导和歪曲事实。</center><center>本站鼓励用户避免制造分裂和对立，交朋友而不是制造敌人。</center></p><p><center>感谢您的配合</center></p>]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>about</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<p><center>Destiny是一名喜欢二次元、数码、各类游戏和VOCALOID的脆皮大学生，目前就读于<a href="https://www.lnu.edu.cn/xxgk/xxjj.htm">辽宁大学</a>计算机科学与技术专业。</center><center><b>正在努力学习和苦练技术<del>（摆烂）</del>。</b></center></p></p><center>本人会在此网站上面记录自己的技术文档和学习生活日常，也可能会搬运一些本人发在酷安或其他平台的文章。</center></p><p><center>酷安：四氯合铜离子</center></p><p><center><a href="https://destinyqwq.top/comment-policy/">查看我们对您在本站发表评论做出的建议及要求</a></center></p><p><center>由于本站点使用Github托管，部分页面加载速度可能较为缓慢。</center><center>本站基于  Hexo  搭建</center><center>主题：Fluid</center></p>]]></content>
     
   </entry>
   
